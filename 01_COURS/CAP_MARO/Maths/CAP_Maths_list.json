@@ -1,0 +1,490 @@
+[
+  {
+    "Domaine": "Statistique – Probabilités",
+    "Module": "Statistique à une variable",
+    "Capacité": "Recueillir et organiser des données.",
+    "Connaissance": "Regroupement par classes d’une série statistique.",
+    "Année": 1,
+    "Chapitre": "Traiter les données"
+  },
+  {
+    "Domaine": "Statistique – Probabilités",
+    "Module": "Statistique à une variable",
+    "Capacité": "Calculer un effectif total, calculer des fréquences, mentalement dans quelques cas simples*, avec une calculatrice ou un tableur dans les autres cas.",
+    "Connaissance": "Effectifs, fréquences.",
+    "Année": 1,
+    "Chapitre": "Traiter les données"
+  },
+  {
+    "Domaine": "Statistique – Probabilités",
+    "Module": "Statistique à une variable",
+    "Capacité": "Lire et interpréter les données d’une série statistique présentées dans un tableau ou représentées graphiquement, sous forme de classes ou non.",
+    "Connaissance": "Diagrammes en bâtons, diagrammes circulaires.",
+    "Année": 1,
+    "Chapitre": "Traiter les données"
+  },
+  {
+    "Domaine": "Statistique – Probabilités",
+    "Module": "Statistique à une variable",
+    "Capacité": "Représenter une série statistique par un diagramme en bâtons ou circulaire, sur papier dans quelques cas simples puis à l’aide d’un logiciel.",
+    "Connaissance": "Diagrammes en bâtons, diagrammes circulaires.",
+    "Année": 1,
+    "Chapitre": "Traiter les données"
+  },
+  {
+    "Domaine": "Statistique – Probabilités",
+    "Module": "Statistique à une variable",
+    "Capacité": "Calculer la moyenne d’une série statistique mentalement dans quelques cas simples*, avec une calculatrice ou un tableur dans les autres cas.",
+    "Connaissance": "Moyenne.",
+    "Année": 2,
+    "Chapitre": "Utiliser un indicateur statistique"
+  },
+  {
+    "Domaine": "Statistique – Probabilités",
+    "Module": "Probabilités",
+    "Capacité": "Expérimenter pour mettre en évidence la fluctuation des fréquences.",
+    "Connaissance": "Expérience aléatoire, ensemble des issues possibles, événement. Fluctuation d’une fréquence relative à un caractère, sur des échantillons de taille n fixée.",
+    "Année": 2,
+    "Chapitre": "Expérimenter les probabilités"
+  },
+  {
+    "Domaine": "Statistique – Probabilités",
+    "Module": "Probabilités",
+    "Capacité": "Observer la stabilisation des fréquences, notamment à l’aide d’une simulation informatique fournie.",
+    "Connaissance": "Stabilisation des fréquences vers la probabilité de l'événement lorsque la taille de l’échantillon augmente.",
+    "Année": 2,
+    "Chapitre": "Expérimenter les probabilités"
+  },
+  {
+    "Domaine": "Statistique – Probabilités",
+    "Module": "Probabilités",
+    "Capacité": "Calculer des probabilités dans des cas simples.",
+    "Connaissance": "Probabilité d’un événement. La probabilité d’un événement est comprise entre 0 et 1. Probabilités d’événements impossibles, certains, contraires.",
+    "Année": 2,
+    "Chapitre": "Calculer des probabilités"
+  },
+  {
+    "Domaine": "Algèbre – Analyse",
+    "Module": "Résolution d’un problème relevant de la proportionnalité",
+    "Capacité": "Reconnaître que deux suites de nombres sont proportionnelles.",
+    "Connaissance": "Suites proportionnelles de nombres ; Coefficient de proportionnalité.",
+    "Année": 1,
+    "Chapitre": "Utiliser la proportionnalité"
+  },
+  {
+    "Domaine": "Algèbre – Analyse",
+    "Module": "Résolution d’un problème relevant de la proportionnalité",
+    "Capacité": "Calculer une quatrième proportionnelle*.",
+    "Connaissance": "Suites proportionnelles de nombres ; Coefficient de proportionnalité.",
+    "Année": 1,
+    "Chapitre": "Utiliser la proportionnalité"
+  },
+  {
+    "Domaine": "Algèbre – Analyse",
+    "Module": "Résolution d’un problème relevant de la proportionnalité",
+    "Capacité": "Traiter des problèmes relatifs à deux suites proportionnelles de nombres.",
+    "Connaissance": "Suites proportionnelles de nombres ; Coefficient de proportionnalité.",
+    "Année": 1,
+    "Chapitre": "Utiliser la proportionnalité"
+  },
+  {
+    "Domaine": "Algèbre – Analyse",
+    "Module": "Résolution d’un problème relevant de la proportionnalité",
+    "Capacité": "Étant donné un tableau numérique incomplet lié à deux suites proportionnelles de nombres : -  trouver le coefficient de proportionnalité* permettant de passer d’une suite à l’autre ; -  compléter le tableau.",
+    "Connaissance": "Suites proportionnelles de nombres ; Coefficient de proportionnalité.",
+    "Année": 1,
+    "Chapitre": "Utiliser la proportionnalité"
+  },
+  {
+    "Domaine": "Algèbre – Analyse",
+    "Module": "Résolution d’un problème relevant de la proportionnalité",
+    "Capacité": "Traiter des problèmes de pourcentages et d’échelles liés à la vie courante ou professionnelle.",
+    "Connaissance": "Pourcentage et échelle. Coefficients multiplicateurs.",
+    "Année": 1,
+    "Chapitre": "Résoudre des problèmes de proportionnalité"
+  },
+  {
+    "Domaine": "Algèbre – Analyse",
+    "Module": "Résolution d’un problème relevant de la proportionnalité",
+    "Capacité": "Connaissant deux des données suivantes : pourcentage ou échelle,  valeur initiale, valeur finale ; calculer la troisième*.",
+    "Connaissance": "Pourcentage et échelle. Coefficients multiplicateurs.",
+    "Année": 1,
+    "Chapitre": "Résoudre des problèmes de proportionnalité"
+  },
+  {
+    "Domaine": "Algèbre – Analyse",
+    "Module": "Résolution d’un problème du premier degré",
+    "Capacité": "Résoudre algébriquement une équation du type ax + b = c*, où x est l’inconnue (a, b et c étant des nombres réels, et a non nul).",
+    "Connaissance": "Méthode de résolution algébrique d'une équation du premier degré à une inconnue.",
+    "Année": 2,
+    "Chapitre": "Résoudre des problèmes"
+  },
+  {
+    "Domaine": "Algèbre – Analyse",
+    "Module": "Résolution d’un problème du premier degré",
+    "Capacité": "Modéliser un problème par une équation du premier degré à une inconnue et le résoudre.",
+    "Connaissance": "Méthode de résolution algébrique d'une équation du premier degré à une inconnue.",
+    "Année": 2,
+    "Chapitre": "Résoudre des problèmes"
+  },
+  {
+    "Domaine": "Algèbre – Analyse",
+    "Module": "Fonctions",
+    "Capacité": "Obtenir  l’image d’un nombre réel par une fonction donnée ;",
+    "Connaissance": "Notion de fonction :  notation ƒ(x) ;  tableau de valeurs. Variable, fonction, antécédent, image.",
+    "Année": 1,
+    "Chapitre": "Découvrir les fonctions"
+  },
+  {
+    "Domaine": "Algèbre – Analyse",
+    "Module": "Fonctions",
+    "Capacité": "Obtenir un éventuel antécédent d’un nombre par une fonction donnée ;",
+    "Connaissance": "Notion de fonction :  notation ƒ(x) ;  tableau de valeurs. Variable, fonction, antécédent, image.",
+    "Année": 1,
+    "Chapitre": "Découvrir les fonctions"
+  },
+  {
+    "Domaine": "Algèbre – Analyse",
+    "Module": "Fonctions",
+    "Capacité": "Obtenir  un tableau de valeurs d’une fonction donnée.",
+    "Connaissance": "Notion de fonction :  notation ƒ(x) ;  tableau de valeurs. Variable, fonction, antécédent, image.",
+    "Année": 1,
+    "Chapitre": "Découvrir les fonctions"
+  },
+  {
+    "Domaine": "Algèbre – Analyse",
+    "Module": "Fonctions",
+    "Capacité": "Dans un plan muni d’un repère orthogonal :  placer un point connaissant ses coordonnées cartésiennes* ;",
+    "Connaissance": "Repérage dans un plan : coordonnées cartésiennes d’un point.",
+    "Année": 1,
+    "Chapitre": "Découvrir les fonctions"
+  },
+  {
+    "Domaine": "Algèbre – Analyse",
+    "Module": "Fonctions",
+    "Capacité": "Dans un plan muni d’un repère orthogonal :  construire la représentation graphique d’une fonction donnée.",
+    "Connaissance": "Courbe représentative d’une fonction.",
+    "Année": 1,
+    "Chapitre": "Découvrir les fonctions"
+  },
+  {
+    "Domaine": "Algèbre – Analyse",
+    "Module": "Fonctions",
+    "Capacité": "Donner l’image d’un nombre par une fonction à partir de sa représentation graphique.",
+    "Connaissance": "Intervalle [a ; b], où a et b sont des réels.",
+    "Année": 1,
+    "Chapitre": "Exploiter les fonctions"
+  },
+  {
+    "Domaine": "Algèbre – Analyse",
+    "Module": "Fonctions",
+    "Capacité": "Donner un plusieurs antécédents éventuels d’un nombre par une fonction à partir de sa représentation graphique.",
+    "Connaissance": "Intervalle [a ; b], où a et b sont des réels.",
+    "Année": 1,
+    "Chapitre": "Exploiter les fonctions"
+  },
+  {
+    "Domaine": "Algèbre – Analyse",
+    "Module": "Fonctions",
+    "Capacité": "Décrire les variations d’une fonction ƒ avec un vocabulaire adapté* ;",
+    "Connaissance": "Fonction croissante ou décroissante sur un intervalle donné.",
+    "Année": 2,
+    "Chapitre": "Décrire les fonctions"
+  },
+  {
+    "Domaine": "Algèbre – Analyse",
+    "Module": "Fonctions",
+    "Capacité": "Compléter un tableau de variations.",
+    "Connaissance": "Tableau de variations.",
+    "Année": 2,
+    "Chapitre": "Décrire les fonctions"
+  },
+  {
+    "Domaine": "Algèbre – Analyse",
+    "Module": "Fonctions",
+    "Capacité": "Vérifier qu’une fonction est linéaire connaissant un des modes de représentation suivants :  un tableau de valeurs,  une représentation graphique,  son expression algébrique.",
+    "Connaissance": "Fonction linéaire.",
+    "Année": 2,
+    "Chapitre": "Identifier une fonction linéaire"
+  },
+  {
+    "Domaine": "Algèbre – Analyse",
+    "Module": "Fonctions",
+    "Capacité": "Passer d’un mode de représentation d’une fonction linéaire à un autre.",
+    "Connaissance": "Fonction linéaire.",
+    "Année": 2,
+    "Chapitre": "Identifier une fonction linéaire"
+  },
+  {
+    "Domaine": "Algèbre – Analyse",
+    "Module": "Fonctions",
+    "Capacité": "Déterminer la fonction linéaire qui modélise une situation de proportionnalité.",
+    "Connaissance": "Lien avec une situation de proportionnalité. Notation : ƒ(x) = ax, où a est un nombre réel non nul, coefficient de proportionnalité.",
+    "Année": 2,
+    "Chapitre": "Identifier une fonction linéaire"
+  },
+  {
+    "Domaine": "Géométrie",
+    "Module": "Géométrie",
+    "Capacité": "Tracer un segment de même longueur qu’un segment donné ; la médiatrice d’un segment.",
+    "Connaissance": "Segment, droite, angle.",
+    "Année": 1,
+    "Chapitre": "Tracer et mesurer des figures"
+  },
+  {
+    "Domaine": "Géométrie",
+    "Module": "Géométrie",
+    "Capacité": "Tracer  une parallèle, une perpendiculaire à une droite, passant par un point.",
+    "Connaissance": "Segment, droite, angle.",
+    "Année": 1,
+    "Chapitre": "Tracer et mesurer des figures"
+  },
+  {
+    "Domaine": "Géométrie",
+    "Module": "Géométrie",
+    "Capacité": "Tracer  un angle de mesure donnée.",
+    "Connaissance": "Segment, droite, angle.",
+    "Année": 1,
+    "Chapitre": "Tracer et mesurer des figures"
+  },
+  {
+    "Domaine": "Géométrie",
+    "Module": "Géométrie",
+    "Capacité": "Identifier  dans  une  figure  codée  que  deux  droites sont perpendiculaires ou parallèles.",
+    "Connaissance": "Segment, droite, angle.",
+    "Année": 1,
+    "Chapitre": "Tracer et mesurer des figures"
+  },
+  {
+    "Domaine": "Géométrie",
+    "Module": "Géométrie",
+    "Capacité": "Mesurer la longueur d’un segment à l’aide d’un instrument approprié (règle graduée…)*. Tracer et mesurer un angle à l’aide d’un rapporteur.",
+    "Connaissance": "Unités de mesure (longueurs, angles).",
+    "Année": 1,
+    "Chapitre": "Tracer et mesurer des figures"
+  },
+  {
+    "Domaine": "Géométrie",
+    "Module": "Géométrie",
+    "Capacité": "Tracer aux instruments la première fois, puis à l’aide de l’outil numérique des figures planes usuelles.",
+    "Connaissance": "Figures planes usuelles : triangle isocèle, triangle équilatéral, triangle rectangle, rectangle, losange, parallélogramme, carré, cercle.",
+    "Année": 1,
+    "Chapitre": "Tracer et mesurer des figures"
+  },
+  {
+    "Domaine": "Géométrie",
+    "Module": "Géométrie",
+    "Capacité": "Reconnaître, nommer une figure plane usuelle*. Identifier les figures usuelles constituant une figure donnée.",
+    "Connaissance": "Propriétés caractéristiques des quadrilatères portant sur les diagonales ou sur les côtés.",
+    "Année": 1,
+    "Chapitre": "Identifier des figures"
+  },
+  {
+    "Domaine": "Géométrie",
+    "Module": "Géométrie",
+    "Capacité": "Construire aux instruments la première fois, puis à l’aide de l’outil numérique, l’image d’une figure simple dans le plan par symétrie centrale ou axiale.",
+    "Connaissance": "Symétrie centrale, axiale : définition, propriété de conservation des longueurs, des angles géométriques. Superposition d’une figure et de son image par symétrie axiale par pliage selon l’axe de symétrie.",
+    "Année": 2,
+    "Chapitre": "Utiliser la symétrie"
+  },
+  {
+    "Domaine": "Géométrie",
+    "Module": "Géométrie",
+    "Capacité": "Identifier, dans une figure donnée, une droite comme axe de symétrie, un point comme centre de symétrie.",
+    "Connaissance": "Symétrie centrale, axiale : définition, propriété de conservation des longueurs, des angles géométriques. Superposition d’une figure et de son image par symétrie axiale par pliage selon l’axe de symétrie.",
+    "Année": 2,
+    "Chapitre": "Utiliser la symétrie"
+  },
+  {
+    "Domaine": "Géométrie",
+    "Module": "Géométrie",
+    "Capacité": "Reconnaître, nommer un solide usuel. Nommer les solides usuels constituant d'autres solides.",
+    "Connaissance": "Solides usuels : le cube, le pavé droit, la pyramide,  le  cylindre  droit,  le  cône,  la boule.",
+    "Année": 1,
+    "Chapitre": "Identifier des solides"
+  },
+  {
+    "Domaine": "Géométrie",
+    "Module": "Géométrie",
+    "Capacité": "Calculer le périmètre d’un triangle, d’un carré, d’un rectangle, d’un cercle ;",
+    "Connaissance": "Formule du périmètre d’un carré, d’un rectangle, d’un cercle.",
+    "Année": "",
+    "Chapitre": "Calculer des dimensions dans des figures planes"
+  },
+  {
+    "Domaine": "Géométrie",
+    "Module": "Géométrie",
+    "Capacité": "Calculer l’aire d’un triangle, d’un carré, d’un rectangle, d’un disque, d’un parallélogramme ;",
+    "Connaissance": "Formule de l’aire d’un triangle, d’un carré, d'un rectangle, d’un disque.",
+    "Année": "",
+    "Chapitre": "Calculer des dimensions dans des figures planes"
+  },
+  {
+    "Domaine": "Géométrie",
+    "Module": "Géométrie",
+    "Capacité": "Calculer le volume d’un cube, d’un pavé droit, d’un cylindre droit, d’une boule ;",
+    "Connaissance": "Formule du volume d’un cube, d’un parallélépipède rectangle, d’un cylindre droit, d’une boule.",
+    "Année": "",
+    "Chapitre": "Calculer des dimensions dans des solides"
+  },
+  {
+    "Domaine": "Géométrie",
+    "Module": "Géométrie",
+    "Capacité": "Calculer la mesure, en degré, d’un angle d’un triangle, connaissant les mesures des deux autres angles.",
+    "Connaissance": "Somme des mesures, en degré, des angles d’un triangle.",
+    "Année": "",
+    "Chapitre": "Calculer des dimensions dans des figures planes"
+  },
+  {
+    "Domaine": "Géométrie",
+    "Module": "Géométrie",
+    "Capacité": "Calculer la longueur d’un segment.",
+    "Connaissance": "Le théorème de Pythagore et sa réciproque. Le théorème de Thalès dans le triangle.",
+    "Année": "",
+    "Chapitre": "Calculer des longueurs dans le triangle"
+  },
+  {
+    "Domaine": "Géométrie",
+    "Module": "Géométrie",
+    "Capacité": "Convertir des unités de longueur, d’aire et de volume.",
+    "Connaissance": "",
+    "Année": 1,
+    "Chapitre": "Convertir des unités"
+  },
+  {
+    "Domaine": "Calculs numériques",
+    "Module": "",
+    "Capacité": "Effectuer soit mentalement, soit « à la main », soit à la calculatrice un calcul isolé sur des nombres en écriture décimale faisant intervenir l’une au moins des opérations : addition/soustraction/ multiplication/division à 10-n près.",
+    "Connaissance": "",
+    "Année": "",
+    "Chapitre": ""
+  },
+  {
+    "Domaine": "Calculs numériques",
+    "Module": "",
+    "Capacité": "Déterminer rapidement un ordre de grandeur.",
+    "Connaissance": "",
+    "Année": "",
+    "Chapitre": ""
+  },
+  {
+    "Domaine": "Calculs numériques",
+    "Module": "",
+    "Capacité": "Convertir une mesure exprimée dans le système décimal en une mesure exprimée dans le système sexagésimal, et réciproquement.",
+    "Connaissance": "",
+    "Année": "",
+    "Chapitre": ""
+  },
+  {
+    "Domaine": "Calculs numériques",
+    "Module": "",
+    "Capacité": "Ordonner une liste de nombres donnés en écriture décimale.",
+    "Connaissance": "",
+    "Année": "",
+    "Chapitre": ""
+  },
+  {
+    "Domaine": "Calculs numériques",
+    "Module": "",
+    "Capacité": "Calculer le carré, le cube d’un nombre donné en écriture décimale.",
+    "Connaissance": "",
+    "Année": "",
+    "Chapitre": ""
+  },
+  {
+    "Domaine": "Calculs numériques",
+    "Module": "",
+    "Capacité": "Utiliser la notation scientifique pour obtenir un ordre de grandeur.",
+    "Connaissance": "",
+    "Année": "",
+    "Chapitre": ""
+  },
+  {
+    "Domaine": "Calculs numériques",
+    "Module": "",
+    "Capacité": "Déterminer la valeur arrondie à 10-n d’un nombre donné en écriture décimale.",
+    "Connaissance": "",
+    "Année": "",
+    "Chapitre": ""
+  },
+  {
+    "Domaine": "Calculs numériques",
+    "Module": "",
+    "Capacité": "Déterminer, en écriture décimale, la valeur exacte ou une valeur arrondie de la racine carrée d’un nombre positif.",
+    "Connaissance": "",
+    "Année": "",
+    "Chapitre": ""
+  },
+  {
+    "Domaine": "Calculs numériques",
+    "Module": "",
+    "Capacité": "Déterminer, en écriture décimale, la valeur exacte ou une valeur arrondie du nombre  a , où a et b b sont des nombres donnés en écriture décimale, b étant non nul.",
+    "Connaissance": "",
+    "Année": "",
+    "Chapitre": ""
+  },
+  {
+    "Domaine": "Calculs numériques",
+    "Module": "",
+    "Capacité": "Calculer un produit de la forme c  a , où a, b et c b sont des nombres donnés en écriture décimale, b étant non nul.",
+    "Connaissance": "",
+    "Année": "",
+    "Chapitre": ""
+  },
+  {
+    "Domaine": "Calculs numériques",
+    "Module": "",
+    "Capacité": "Utiliser l’égalité :  ca  a , où a, b et c sont des cb     b nombres donnés en écriture décimale, b et c étant non nuls.",
+    "Connaissance": "",
+    "Année": "",
+    "Chapitre": ""
+  },
+  {
+    "Domaine": "Calculs numériques",
+    "Module": "",
+    "Capacité": "Utiliser l’équivalence :  a   b  équivaut à ad = bc, c     d où a, b, c et d sont des nombres donnés en écriture décimale, c et d étant non nuls.",
+    "Connaissance": "",
+    "Année": "",
+    "Chapitre": ""
+  },
+  {
+    "Domaine": "Calculs numériques",
+    "Module": "",
+    "Capacité": "Comparer, additionner, soustraire, multiplier et diviser des nombres donnés en écriture fractionnaire dans des situations simples.",
+    "Connaissance": "",
+    "Année": "",
+    "Chapitre": ""
+  },
+  {
+    "Domaine": "Calculs numériques",
+    "Module": "",
+    "Capacité": "Calculer la valeur numérique exacte ou une valeur arrondie d’une expression littérale en donnant aux lettres (variables) des valeurs numériques en écriture décimale.",
+    "Connaissance": "",
+    "Année": "",
+    "Chapitre": ""
+  },
+  {
+    "Domaine": "Algorithmique et programmation",
+    "Module": "",
+    "Capacité": "Décomposer un problème en sous-problèmes.",
+    "Connaissance": "",
+    "Année": "",
+    "Chapitre": ""
+  },
+  {
+    "Domaine": "Algorithmique et programmation",
+    "Module": "",
+    "Capacité": "Écrire une séquence d’instructions.",
+    "Connaissance": "Notion de variable. Principe d’entrée-sortie d’un programme. Instructions conditionnelles, boucles.",
+    "Année": "",
+    "Chapitre": ""
+  },
+  {
+    "Domaine": "Algorithmique et programmation",
+    "Module": "",
+    "Capacité": "Écrire, mettre au point (tester et corriger) et exécuter un programme en réponse à un problème donné.",
+    "Connaissance": "Notion de variable. Principe d’entrée-sortie d’un programme. Instructions conditionnelles, boucles.",
+    "Année": "",
+    "Chapitre": ""
+  }
+]

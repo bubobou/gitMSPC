@@ -1,0 +1,542 @@
+[
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Sécurité",
+        "module": "Sécurité & chimie",
+        "Capacité": "Identifier un pictogramme sur l’étiquette d’un produit chimique de laboratoire ou d’usage domestique.",
+        "Connaissance": "Savoir que les pictogrammes et la lecture de l’étiquette d’un produit chimique renseignent sur les risques encourus et sur les moyens de s’en prévenir, sous forme de phrases de risques et de phrases de sécurité.",
+        "Chapitre": "Transversal : Sécurité chimie"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Sécurité",
+        "module": "Sécurité & chimie",
+        "Capacité": "Identifier et appliquer les règles liées au tri sélectif des déchets chimiques.",
+        "Connaissance": "",
+        "Chapitre": "Transversal : Sécurité chimie"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Sécurité",
+        "module": "Sécurité & chimie",
+        "Capacité": "Utiliser de façon raisonnée les équipements de protection individuelle adaptés à la situation expérimentale en chimie.",
+        "Connaissance": "Connaître les équipements de protection individuelle et leurs conditions d’utilisation.",
+        "Chapitre": "Transversal : Sécurité chimie"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Sécurité",
+        "module": "Sécurité & électricité",
+        "Capacité": "Justifier la présence et les caractéristiques des dispositifs permettant d’assurer la protection des matériels et des personnes (coupe-circuit, fusible, disjoncteur, disjoncteur différentiel, mise à la terre).",
+        "Connaissance": "Connaître les principaux dispositifs de protection présents dans une installation électrique et leur rôle.",
+        "Chapitre": "Transversal : Sécurité électricité"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Sécurité",
+        "module": "Sécurité & lumière",
+        "Capacité": "Identifier les dangers d’une exposition au rayonnement d’une source lumineuse dans le visible ou non : par vision directe, par réflexion.",
+        "Connaissance": "Connaître certaines caractéristiques de la lumière émise par une source laser (monochromaticité, puissance et divergence du faisceau laser).\nConnaître l’existence de classes de laser.",
+        "Chapitre": "Transversal : Sécurité optique"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Sécurité",
+        "module": "Sécurité & lumière",
+        "Capacité": "Utiliser de façon raisonnée les équipements de protection individuelle adaptés à la situation expérimentale en optique.",
+        "Connaissance": "Connaître les dangers, pour la santé (œil, peau), d’une exposition au rayonnement.",
+        "Chapitre": "Transversal : Sécurité optique"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Sécurité",
+        "module": "Sécurité & son",
+        "Capacité": "Utiliser les protections adaptées à l’environnement sonore de travail.",
+        "Connaissance": "Connaître le seuil de dangerosité et de douleur pour l’oreille humaine (l’échelle de niveau d’intensité acoustique étant fournie).",
+        "Chapitre": "Transversal : Sécurité acoustique"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Électricité",
+        "module": "",
+        "Capacité": "Lire et représenter un schéma électrique.",
+        "Connaissance": "",
+        "Chapitre": "Transversal : électricité"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Électricité",
+        "module": "",
+        "Capacité": "Réaliser un montage à partir d’un schéma.",
+        "Connaissance": "",
+        "Chapitre": "Transversal : électricité"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Électricité",
+        "module": "",
+        "Capacité": "Identifier les grandeurs, avec les unités et symboles associés, indiquées sur la plaque signalétique d’un appareil.",
+        "Connaissance": "Connaître les unités de mesure de l’intensité et de la tension.",
+        "Chapitre": "Transversal : électricité"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Électricité",
+        "module": "",
+        "Capacité": "Mesurer l’intensité d’un courant électrique.",
+        "Connaissance": "Connaître les appareils de mesure de la tension.",
+        "Chapitre": "Transversal : électricité"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Électricité",
+        "module": "",
+        "Capacité": "Mesurer la tension aux bornes d’un dipôle.",
+        "Connaissance": "Connaître les appareils de mesure de l’intensité.",
+        "Chapitre": "Transversal : électricité"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Électricité",
+        "module": "",
+        "Capacité": "Utiliser la loi des nœuds, la loi des mailles dans un circuit comportant au plus deux mailles.",
+        "Connaissance": "",
+        "Chapitre": "Transversal : électricité"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Électricité",
+        "module": "",
+        "Capacité": "Identifier les grandeurs d’entrée et de sortie (avec leur unité) d’un capteur.",
+        "Connaissance": "",
+        "Chapitre": "Transversal : électricité"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Électricité",
+        "module": "",
+        "Capacité": "Réaliser et exploiter la caractéristique du dipôle électrique constitué par un capteur, modélisé par la relation U = ƒ(I).",
+        "Connaissance": "Connaître la relation entre U et I pour des systèmes à comportement de type ohmique.",
+        "Chapitre": "Transversal : électricité"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Électricité",
+        "module": "",
+        "Capacité": "Distinguer une tension continue d’une tension alternative.",
+        "Connaissance": "Connaître les grandeurs permettant de décrire une tension sinusoïdale monophasée ainsi que leur unité (valeur maximale, valeur efficace, période, fréquence).",
+        "Chapitre": "Transversal : électricité"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Électricité",
+        "module": "",
+        "Capacité": "Reconnaître une tension alternative périodique.",
+        "Connaissance": "Savoir que la tension du secteur en France est alternative et sinusoïdale, de valeur efficace 230 V et de fréquence 50 Hz.",
+        "Chapitre": "Transversal : électricité"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Électricité",
+        "module": "",
+        "Capacité": "Déterminer graphiquement la valeur maximale et la période d’une tension alternative sinusoïdale.",
+        "Connaissance": "",
+        "Chapitre": "Transversal : électricité"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Électricité",
+        "module": "",
+        "Capacité": "Exploiter la relation entre la fréquence et la période.",
+        "Connaissance": "Connaître la relation entre la fréquence et la période.",
+        "Chapitre": "Transversal : électricité"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Électricité",
+        "module": "",
+        "Capacité": "Décrire un signal périodique et donner les valeurs le caractérisant (valeur efficace et valeur maximale, période, fréquence).",
+        "Connaissance": "Pour un signal sinusoïdal, connaître la relation entre la valeur efficace et la valeur maximale.",
+        "Chapitre": "Transversal : électricité"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Mécanique",
+        "module": "Cinématique",
+        "Capacité": "Délimiter un système et choisir un référentiel adapté.",
+        "Connaissance": "Savoir qu’un mouvement ne peut être défini que dans un référentiel choisi.",
+        "Chapitre": "Décrire un mouvement"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Mécanique",
+        "module": "Cinématique",
+        "Capacité": "Reconnaître un état de repos ou de mouvement d’un objet par rapport à un autre objet.",
+        "Connaissance": "",
+        "Chapitre": "Décrire un mouvement"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Mécanique",
+        "module": "Cinématique",
+        "Capacité": "Différencier trajectoire rectiligne, circulaire et quelconque pour un point donné d’un objet.",
+        "Connaissance": "",
+        "Chapitre": "Décrire un mouvement"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Mécanique",
+        "module": "Cinématique",
+        "Capacité": "Identifier la nature d’un mouvement à partir d’un enregistrement.",
+        "Connaissance": "Connaître l’existence de mouvements de natures différentes : mouvement uniforme et mouvement uniformément varié (accéléré ou ralenti).",
+        "Chapitre": "Décrire un mouvement"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Mécanique",
+        "module": "Cinématique",
+        "Capacité": "Déterminer expérimentalement une vitesse moyenne dans le cas d’un mouvement rectiligne.",
+        "Connaissance": "",
+        "Chapitre": "Calculer une vitesse"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Mécanique",
+        "module": "Cinématique",
+        "Capacité": "Utiliser la relation entre vitesse moyenne, distance parcourue et durée.",
+        "Connaissance": "Connaître la relation entre vitesse moyenne, distance parcourue et durée.",
+        "Chapitre": "Calculer une vitesse"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Mécanique",
+        "module": "Cinématique",
+        "Capacité": "Déterminer expérimentalement la fréquence de rotation d’un mobile.",
+        "Connaissance": "Connaître les notions de fréquence de rotation et de période.",
+        "Chapitre": "Calculer une vitesse"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Mécanique",
+        "module": "Cinématique",
+        "Capacité": "Utiliser la relation entre vitesse, diamètre et fréquence de rotation.",
+        "Connaissance": "",
+        "Chapitre": "Calculer une vitesse"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Mécanique",
+        "module": "Forces",
+        "Capacité": "Faire l’inventaire des actions mécaniques qui s’exercent sur un solide.",
+        "Connaissance": "Savoir qu’une action mécanique peut se modéliser par une force.",
+        "Chapitre": "Caractériser et équilibrer des forces"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Mécanique",
+        "module": "Forces",
+        "Capacité": "Représenter et caractériser une action mécanique par une force.",
+        "Connaissance": "Connaître les caractéristiques d’une force (droite d’action, sens et valeur en newton).",
+        "Chapitre": "Caractériser et équilibrer des forces"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Mécanique",
+        "module": "Forces",
+        "Capacité": "Vérifier expérimentalement les conditions d’équilibre d’un solide soumis à deux ou trois forces de droites d’actions concourantes.",
+        "Connaissance": "",
+        "Chapitre": "Caractériser et équilibrer des forces"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Mécanique",
+        "module": "Forces",
+        "Capacité": "Mesurer la valeur du poids d’un corps.",
+        "Connaissance": "Connaître les caractéristiques du poids d’un corps. Connaître et utiliser la relation entre le poids et la masse.",
+        "Chapitre": "Caractériser et équilibrer des forces"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Chimie",
+        "module": "espèces chimiques",
+        "Capacité": "Identifier expérimentalement des espèces chimiques en solution aqueuse.",
+        "Connaissance": "Connaître la différence entre ion, molécule et atome.",
+        "Chapitre": "Identifier des espèces chimiques"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Chimie",
+        "module": "matériel de chimie",
+        "Capacité": "Reconnaître et nommer le matériel et la verrerie de laboratoire employés lors des manipulations.",
+        "Connaissance": "",
+        "Chapitre": "Identifier des espèces chimiques"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Chimie",
+        "module": "Acides – bases",
+        "Capacité": "Reconnaître expérimentalement le caractère acide, basique ou neutre d’une solution.",
+        "Connaissance": "Savoir qu’une solution acide a un pH inférieur à 7 et qu’une solution basique a un pH supérieur à 7.",
+        "Chapitre": "Mesurer un pH"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Chimie",
+        "module": "Acides – bases",
+        "Capacité": "Mesurer un pH.",
+        "Connaissance": "",
+        "Chapitre": "Mesurer un pH"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Chimie",
+        "module": "Préparation d’un solution",
+        "Capacité": "Réaliser expérimentalement une dilution.",
+        "Connaissance": "Connaître les effets de la dilution sur la valeur du pH.",
+        "Chapitre": "Mesurer un pH"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Chimie",
+        "module": "Préparation d’un solution",
+        "Capacité": "Préparer une solution de concentration massique donnée, par dissolution.",
+        "Connaissance": "Connaître la notion de concentration massique d’un soluté (en g/L).",
+        "Chapitre": "Mesurer un pH"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Acoustique",
+        "module": "Caractéristique d’un son",
+        "Capacité": "Déterminer la période ou la fréquence d’un son pur.",
+        "Connaissance": "",
+        "Chapitre": "Caractériser un son"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Acoustique",
+        "module": "Caractéristique d’un son",
+        "Capacité": "Caractériser un son par sa fréquence et son niveau d’intensité acoustique.",
+        "Connaissance": "Savoir qu’un son se caractérise par sa fréquence et son niveau d’intensité exprimé en décibels.",
+        "Chapitre": "Caractériser un son"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Acoustique",
+        "module": "Caractéristique d’un son",
+        "Capacité": "Mesurer le niveau d’intensité acoustique.",
+        "Connaissance": "",
+        "Chapitre": "Caractériser un son"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Acoustique",
+        "module": "Caractéristique d’un son",
+        "Capacité": "Exploiter une échelle de niveau d’intensité acoustique.",
+        "Connaissance": "Connaître les seuils de dangerosité et de douleur pour l’oreille humaine (l’échelle de niveau d’intensité acoustique étant fournie).",
+        "Chapitre": "Caractériser un son"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Acoustique",
+        "module": "Caractéristique d’un son",
+        "Capacité": "Classer les sons du plus grave au plus aigu, connaissant leur fréquence.",
+        "Connaissance": "",
+        "Chapitre": "Caractériser un son"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Acoustique",
+        "module": "Atténuation d’un son",
+        "Capacité": "Comparer expérimentalement les atténuations phoniques de différents milieux traversés.",
+        "Connaissance": "Savoir que les isolants phoniques sont des matériaux qui absorbent une grande partie de l’énergie véhiculée par les signaux sonores.",
+        "Chapitre": "Transmettre et atténuer un son"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Acoustique",
+        "module": "Production et transmission d’un son",
+        "Capacité": "Mettre en œuvre des émetteurs et des capteurs piézoélectriques.",
+        "Connaissance": "",
+        "Chapitre": "Transmettre et atténuer un son"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Acoustique",
+        "module": "Production et transmission d’un son",
+        "Capacité": "Mettre en œuvre une chaîne de transmission d’informations par canal sonore.",
+        "Connaissance": "Savoir que la transmission du son nécessite un émetteur, un milieu de propagation et un récepteur.",
+        "Chapitre": "Transmettre et atténuer un son"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Thermique",
+        "module": "Mesure de température",
+        "Capacité": "Mesurer des températures.",
+        "Connaissance": "Connaître les échelles de température : Celsius et Kelvin.",
+        "Chapitre": "Mesurer une température"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Thermique",
+        "module": "Mesure de température",
+        "Capacité": "Choisir et utiliser un capteur de température.",
+        "Connaissance": "Connaître différents types de thermomètres et leur principe de fonctionnement (thermomètre à résistance – thermosonde à résistance de Pt (Pt100) – thermocouple, thermomètres à infrarouge, thermomètre à cristaux liquides).",
+        "Chapitre": "Mesurer une température"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Thermique",
+        "module": "Équilibre thermique",
+        "Capacité": "Vérifier expérimentalement que deux corps en contact évoluent vers un état d’équilibre thermique.",
+        "Connaissance": "Savoir que l’élévation (diminution) de température d’un corps nécessite un apport (une perte) d’énergie. Savoir que la chaleur est un mode de transfert d’énergie (transfert thermique) entre deux corps de températures différentes.\nSavoir que l’énergie échangée sous forme thermique s’exprime en joule.",
+        "Chapitre": "Caractériser des échanges de chaleur"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Thermique",
+        "module": "Changement d’état",
+        "Capacité": "Vérifier expérimentalement que lors d’un changement d’état, la température d’un corps pur ne varie pas.",
+        "Connaissance": "Savoir qu’un changement d’état nécessite un transfert thermique sous forme de chaleur.",
+        "Chapitre": "Caractériser des échanges de chaleur"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Thermique",
+        "module": "Changement d’état",
+        "Capacité": "Calculer l’énergie nécessaire pour effectuer un changement d’état d’un corps pur de masse donnée.",
+        "Connaissance": "Savoir qu’un changement d’état nécessite un transfert thermique sous forme de chaleur.",
+        "Chapitre": "Caractériser des échanges de chaleur"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Optique",
+        "module": "Optique géométrique",
+        "Capacité": "Vérifier expérimentalement les lois de la réflexion et de la réfraction.",
+        "Connaissance": "Connaître les lois de la réflexion et de la réfraction. Savoir que la réfringence d’un milieu est liée à la valeur de son indice de réfraction.",
+        "Chapitre": "Comprendre le trajet d’un rayon lumineux"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Optique",
+        "module": "Optique géométrique",
+        "Capacité": "Déterminer expérimentalement l’angle limite de réfraction et vérifier expérimentalement la réflexion totale.",
+        "Connaissance": "Connaître la condition d’existence de l’angle limite de réfraction et du phénomène de réflexion totale.",
+        "Chapitre": "Comprendre le trajet d’un rayon lumineux"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Optique",
+        "module": "Rayonnement, composition",
+        "Capacité": "Réaliser la décomposition de la lumière blanche et sa recomposition.",
+        "Connaissance": "Savoir qu’un rayonnement monochromatique est caractérisé par sa longueur d’onde. Savoir que la lumière blanche est composée de rayonnements de différentes longueurs d’onde.",
+        "Chapitre": "Décomposer la lumière"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Optique",
+        "module": "Rayonnement, composition",
+        "Capacité": "Positionner un rayonnement monochromatique sur une échelle de longueurs d’onde fournie.",
+        "Connaissance": "Connaître les limites de longueur d’onde dans le vide du Domaine visible et situer les rayonnements infrarouges et ultraviolets.\nConnaître les effets sur la santé d’une exposition excessive aux rayonnements infrarouges et ultraviolets.",
+        "Chapitre": "Décomposer la lumière"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Optique",
+        "module": "Rayonnement, composition",
+        "Capacité": "Réaliser expérimentalement une synthèse additive des couleurs.",
+        "Connaissance": "Savoir que trois lumières monochromatiques suffisent pour créer toutes les couleurs.",
+        "Chapitre": "Décomposer la lumière"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Optique",
+        "module": "Rayonnement, composition",
+        "Capacité": "Représenter et exploiter le modèle optique simplifié de l’œil.",
+        "Connaissance": "Savoir que l’œil réalise une synthèse additive.",
+        "Chapitre": "Décomposer la lumière"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Optique",
+        "module": "Rayonnement, composition",
+        "Capacité": "Réaliser une synthèse soustractive des couleurs.",
+        "Connaissance": "Savoir que la couleur d’un objet dépend de la composition spectrale de l’éclairage.",
+        "Chapitre": "Décomposer la lumière"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Optique",
+        "module": "Rayonnement, mesure",
+        "Capacité": "Construire expérimentalement la caractéristique d’un photocomposant (photorésistance, photodiode, phototransistor, photopile) :\n * en fonction de l’éclairement ;\n * en fonction de la longueur d’onde.",
+        "Connaissance": "Savoir que la lumière peut être modélisée par des photons caractérisés par leur énergie et leur longueur d’onde.\nConnaître la vitesse de propagation de la lumière dans le vide et dans l’air. Connaître la relation entre l’énergie d’un photon et la longueur d’onde.",
+        "Chapitre": "Mesurer un rayonnement lumineux"
+    },
+    {
+        "niveau": "seconde",
+        "Groupe": "",
+        "Domaine": "Optique",
+        "module": "Rayonnement, mesure",
+        "Capacité": "Mesurer un éclairement avec un luxmètre.",
+        "Connaissance": "Connaître les grandeurs caractéristiques d’un rayonnement lumineux (flux, intensité, éclairement, longueur d’onde). Savoir que les variations de ces différentes grandeurs caractéristiques d’un rayonnement lumineux influencent le signal électrique produit par un photocomposant.",
+        "Chapitre": "Mesurer un rayonnement lumineux"
+    }
+]
