@@ -2,7 +2,7 @@
 
 ## Maths
 
-* repérage sur un plan de bâtiment
+* Lire un plan de bâtiment
 * lecture de graphique
 * dosage de produits
 * gestion de budget
@@ -18,3 +18,11 @@
 * préparation de solution
 * détection de chute
 * qualité de l'air
+
+
+# Tableaux de correspondance
+
+Séquence | Domaine MSPC | Activité ASSP
+---|---|---
+Lire un plan de bâtiment | Géométrie | B3 : Participation au contrôle et à la gestion de la qualité
+Comprendre une infographie | Statistique et Probabilités | A.2 : Traitement des informations
