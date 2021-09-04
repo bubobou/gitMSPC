@@ -7,6 +7,7 @@
 * création de graphique / datavisualisation
 * gestion de budget
 * facturation
+* calcul commerciaux
 * statistiques appliquées
 * création de diagramme de prise de décision
 * programmation objet communicant
