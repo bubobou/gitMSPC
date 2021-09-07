@@ -1,11 +1,20 @@
 ---
+created: 2021-09-07T16:20:13.463Z
+updated: 2021-09-07T18:42:20.936Z
+assigned: ""
+progress: 0
 tags:
   - Géométrie
 Rang: 0
-updated: 2021-08-31T08:34:41.242Z
 ---
 
 # Identifier des figures
+
+**Activités**
+
+- identifier/classer des figures planes : identifier des propriétés communes
+ - décomposer une figure complexe en figure plane
+ - écrire un algorithme de tracer d'une figure plane
 
 ## Sub-tasks
 

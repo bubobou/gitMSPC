@@ -13,7 +13,6 @@ completedColumns:
 
 ## Prévu
 
-- [mesurer-une-température](tasks/mesurer-une-température.md)
 - [caractériser-un-son](tasks/caractériser-un-son.md)
 - [caractériser-et-équilibrer-des-forces](tasks/caractériser-et-équilibrer-des-forces.md)
 - [identifier-des-espèces-chimiques](tasks/identifier-des-espèces-chimiques.md)
@@ -31,6 +30,8 @@ completedColumns:
 - [transversal-électricité](tasks/transversal-électricité.md)
 
 ## En Préparation
+
+- [mesurer-une-température](tasks/mesurer-une-température.md)
 
 ## En Cours
 

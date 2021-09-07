@@ -1,14 +1,20 @@
 ---
 created: 2021-08-31T08:27:24.387Z
-updated: 2021-08-31T08:31:23.600Z
+updated: 2021-09-07T18:59:55.046Z
 assigned: ""
 progress: 0
 tags:
   - 'Statistique - Probabilités'
+started: 2021-09-07T00:00:00.000Z
 Rang: 0
 ---
 
 # Traiter les données
+
+**Activités**
+ - extraire les données d'un diagramme présenté à la télévision
+ - regrouper les données dans un tableau
+ - représenter ces données par un diagramme en critiquant l'original
 
 ## Sub-tasks
 
