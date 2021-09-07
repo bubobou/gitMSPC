@@ -1,18 +1,11 @@
 # Traiter des données statistiques
 
 ---
-
 ## Activité
-
 **Consigne** : observer attentivement chacun des diagrammes présentés et relever les erreurs commises.
+source : Covid19 - Les graphiques #NIFNAF (https://padlet.com/julia_dumont/covid19)
 
   
-![parcs](res/nifnaf_parcs.jpg)  
-*parcs*
-
-
-
-
 ![etudiants](res/nifnaf_etudiants_medecine.jpeg)  
 *étudiants*
 
@@ -28,9 +21,6 @@
 *nouveaux cas*  
 
 
-![afrique](res/nifnaf_afrique.jpg)
-*Afrique*
-
 
 ![doses](res/nifnaf_doses.jpg)  
 *doses*
@@ -38,3 +28,8 @@
 
 ![réanimation](res/nifnaf_reanimation.jpeg)  
 *réanimation*
+
+
+**Consigne**
+
+Choisir un des diagrammes, extraire les informations dans un tableau et représenter celles-ci par un diagramme de votre choix.
