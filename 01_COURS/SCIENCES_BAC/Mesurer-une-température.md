@@ -7,3 +7,5 @@ header-right: "|Thermique"
 ...
 
 ## Activité introductive
+
+Les combinaisons spatiales sont soumises à de fortes variations de températures.
