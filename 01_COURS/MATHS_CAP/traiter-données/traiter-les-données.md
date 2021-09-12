@@ -1,12 +1,10 @@
 ### MATHÉMATIQUES    |   Traiter les données
-
 ---
-
-**Consignes**
+#### Consignes
 
 Pour chacune des illustrations ci-dessous :
- - [ ] relever les informations importantes et les écrire dans un tableau.
- - [ ] représenter les informations par un graphique de votre choix.
+ - [ ] **relever** les informations importantes et les écrire dans un tableau.
+ - [ ] **représenter** les informations par un graphique de votre choix.
   
  - illustration 1 :
 <img src="image1.png" width="500">
