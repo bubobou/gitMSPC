@@ -6,3 +6,4 @@ header-center: "\\leftmark"
 header-right: "|Thermique"
 ...
 
+## Activité introductive
