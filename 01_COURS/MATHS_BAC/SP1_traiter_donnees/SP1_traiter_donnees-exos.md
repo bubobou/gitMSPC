@@ -1,5 +1,5 @@
 ---
-title: "Traiter des donnée statistiques"
+title: "Traiter des données statistiques"
 geometry: "top=2cm, right=1cm, left=1cm, bottom = 1cm"
 header-left: "MATHÉMATIQUES |\\hspace{1cm}"
 header-center: "\\thetitle"
@@ -17,6 +17,7 @@ source : manuel Modulo MATHEMATIQUES 2de Bac Pro, Ed. Foucher
 ### Exercice 1 (Manuel : J'applique, page 14)
 
 Pour chacun des caractères suivants, donnez sa nature et quel type de diagramme peut le représenter.
+
  a. Destination préférée des Français pour les vacances.
  b. Pointure de chaussures.
  c. Salaire des employés d’une entreprise.
@@ -35,11 +36,11 @@ On interroge les 28 élèves d’une classe de 2de sur le nombre de SMS qu’ils
 
 ### Exercice 3
 
-L’indice de qualité de l’air croît de 1 (très bon) à 10 (très mauvais). Il permet de caractériser de manière simple et globale la qualité de l’air d’une agglomération urbaine.
+L’indice de qualité de l’air varie de 1 (très bon) à 10 (très mauvais). Il permet de caractériser de manière simple et globale la qualité de l’air d’une agglomération urbaine.
 Les valeurs suivantes correspondent aux indices de la qualité de l’air de Marseille entre le 1er septembre et le 15 octobre 2017 .
 
 4|4|4|5|5|4|5|4|4|3|4|3|4|4|3|3|3|3
 4|5|5|4|5|5|5|5|6|6|5|4|6|4|4|5|7|4
 3|4|4|5|6|5|5|6|
 
-Représenter ces données de façon à ce qu'elles soient lisibles.
+Représenter ces données de façon à ce qu'elles soient compréhensibles.
