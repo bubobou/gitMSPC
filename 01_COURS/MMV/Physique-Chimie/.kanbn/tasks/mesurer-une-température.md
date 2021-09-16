@@ -1,14 +1,18 @@
 ---
+created: 2021-09-16T17:52:34.091Z
+updated: 2021-09-16T17:52:45.182Z
+assigned: ""
+progress: 0
 tags:
-  - 'Thermique'
-Rang: 0
+  - Thermique
+started: 2021-09-16T00:00:00.000Z
 ---
 
 # Mesurer une température
 
 ## Sub-tasks
 
-- [ ] Capacité: Mesurer des températures.
-- [ ] Connaissance: Connaître les échelles de température : Celsius et Kelvin.
-- [ ] Capacité: Choisir et utiliser un capteur de température.
+- [x] Capacité: Mesurer des températures.
+- [x] Connaissance: Connaître les échelles de température : Celsius et Kelvin.
+- [x] Capacité: Choisir et utiliser un capteur de température.
 - [ ] Connaissance: Connaître différents types de thermomètres et leur principe de fonctionnement (thermomètre à résistance – thermosonde à résistance de Pt (Pt100) – thermocouple, thermomètres à infrarouge, thermomètre à cristaux liquides).

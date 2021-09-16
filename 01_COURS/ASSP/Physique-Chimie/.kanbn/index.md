@@ -31,8 +31,8 @@ completedColumns:
 
 ## En Préparation
 
-- [mesurer-une-température](tasks/mesurer-une-température.md)
-
 ## En Cours
+
+- [mesurer-une-température](tasks/mesurer-une-température.md)
 
 ## Terminé
