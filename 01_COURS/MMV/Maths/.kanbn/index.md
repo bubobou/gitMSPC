@@ -31,8 +31,8 @@ completedColumns:
 
 ## En Préparation
 
-- [traiter-des-données-statistiques](tasks/traiter-des-données-statistiques.md)
-
 ## En Cours
+
+- [traiter-des-données-statistiques](tasks/traiter-des-données-statistiques.md)
 
 ## Terminé
