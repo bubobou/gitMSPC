@@ -24,7 +24,6 @@ completedColumns:
 
 ## Prévu An1
 
-- [identifier-des-figures](tasks/identifier-des-figures.md)
 - [utiliser-la-proportionnalité](tasks/utiliser-la-proportionnalité.md)
 - [convertir-des-unités](tasks/convertir-des-unités.md)
 - [résoudre-des-problèmes-de-proportionnalité](tasks/résoudre-des-problèmes-de-proportionnalité.md)
@@ -37,6 +36,8 @@ completedColumns:
 - [exploiter-les-fonctions](tasks/exploiter-les-fonctions.md)
 
 ## En Préparation
+
+- [identifier-des-figures](tasks/identifier-des-figures.md)
 
 ## En Cours
 
