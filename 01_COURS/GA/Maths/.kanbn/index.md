@@ -30,11 +30,10 @@ completedColumns:
 - [créer-et-programmer-des-algorithmes](tasks/créer-et-programmer-des-algorithmes.md)
 - [effectuer-des-calculs-commerciaux](tasks/effectuer-des-calculs-commerciaux.md)
 
-
 ## En Préparation
 
-- [traiter-des-données-statistiques](tasks/traiter-des-données-statistiques.md)
-
 ## En Cours
+
+- [traiter-des-données-statistiques](tasks/traiter-des-données-statistiques.md)
 
 ## Terminé

@@ -23,9 +23,14 @@ Tournant autour de la Terre à environ 27 000 km/h, le spationaute passe du jour
 
 **Questions** :
 
- 1. À quel écart de température maximale peut être soumis un spationaute ?  
- 2. Quelle est la valeur exprimée en °C des températures maximale et minimale auxquelles peut-être soumis un spationaute ?
+ 1. Placer les températures indiquées dans le texte sur l'axe ci-dessous.
+   
+![axe Kelvin](axeK.png){width=12cm}
 
+ 2. À quel écart de température maximale peut être soumis un spationaute ?  
+ 3. Quelle est la valeur exprimée en °C des températures maximale et minimale auxquelles peut-être soumis un spationaute ?
+
+\newpage
 
 ## Activité : estimer une température
 

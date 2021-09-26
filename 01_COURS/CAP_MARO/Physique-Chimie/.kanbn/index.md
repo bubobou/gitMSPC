@@ -18,7 +18,6 @@ completedColumns:
 
 ## Prévu An1
 
-- [caractériser-une-force](tasks/caractériser-une-force.md)
 - [réaliser-des-montages-électriques](tasks/réaliser-des-montages-électriques.md)
 - [caractériser-un-signal-sonore](tasks/caractériser-un-signal-sonore.md)
 - [identifier-des-espèces-chimiques](tasks/identifier-des-espèces-chimiques.md)
@@ -29,6 +28,8 @@ completedColumns:
 - [réaliser-une-dilution](tasks/réaliser-une-dilution.md)
 
 ## En Préparation
+
+- [caractériser-une-force](tasks/caractériser-une-force.md)
 
 ## En Cours
 
