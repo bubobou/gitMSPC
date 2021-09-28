@@ -1,6 +1,6 @@
 ---
 created: 2021-08-26T10:38:34.011Z
-updated: 2021-09-16T15:40:12.092Z
+updated: 2021-09-27T17:12:14.728Z
 assigned: ""
 progress: 1
 tags:
@@ -17,10 +17,10 @@ Rang: 1
 
 ## Sub-tasks
 
-- [ ] Capacité: Recueillir et organiser des données statistiques.
-- [ ] Connaissance: Regroupement par classes d’une série statistique.
-- [ ] Capacité: Organiser des données statistiques en choisissant un mode de représentation adapté à l'aide des fonctions statistiques d'une calculatrice ou d'un tableur.
-- [ ] Connaissance: Représentation d’une série statistique par un diagramme en secteurs, en bâtons, en colonnes, à lignes brisées.
+- [x] Capacité: Recueillir et organiser des données statistiques.
+- [x] Connaissance: Regroupement par classes d’une série statistique.
+- [x] Capacité: Organiser des données statistiques en choisissant un mode de représentation adapté à l'aide des fonctions statistiques d'une calculatrice ou d'un tableur.
+- [x] Connaissance: Représentation d’une série statistique par un diagramme en secteurs, en bâtons, en colonnes, à lignes brisées.
 - [x] Capacité: Extraire des informations d’une représentation d’une série statistique.
 - [x] Connaissance: Représentation d’une série statistique par un diagramme en secteurs, en bâtons, en colonnes, à lignes brisées.
 - [ ] Algorithmique: déterminer la fréquence d'apparition d'une caractéristique dans des données brutes.
