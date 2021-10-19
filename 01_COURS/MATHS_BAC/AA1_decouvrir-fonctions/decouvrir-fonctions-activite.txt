@@ -1,0 +1,88 @@
+MATHÉMATIQUES |
+
+Découvrir les fonctions
+
+| Algèbre&Analyse
+
+Situation : programme de calcul
+Voici un programme de calcul :
+—
+—
+—
+—
+—
+
+Recevoir un nombre.
+Multiplier ce nombre par 3
+Ajouter 1 au résultat
+Diviser le résultat par 2
+Retourner le résultat
+
+Quels sont les nombres renvoyés par la fonction lorsqu’elle reçoit les nombres suivant :
+-2 ? 0 ? 3 ? 10 ?
+
+Situation : programmation par bloc
+Parmi les deux programmes donnés ci-dessous, lequel correspond au programme de calcul
+précédent ?
+
+FIGURE 1 – programme 1
+
+FIGURE 2 – programme 2
+Que retourne l’autre programme ?
+
+MATHÉMATIQUES |
+
+Découvrir les fonctions
+
+| Algèbre&Analyse
+
+Situation : programmation en python
+Parmi les programmes définis ci-dessous, lesquels correspondent au programme de calcul
+initial ?
+— programme 1 :
+1 def programme_de_calcul1(nombre):
+2
+resultat = 3*nombre
+3
+resultat = resultat + 1
+4
+resultat = resultat / 2
+5
+return resultat
+
+— programme 2 :
+1 def programme_de_calcul2(x):
+2
+resultat = 3*x
+3
+resultat = resultat + 1
+4
+resultat = resultat / 2
+5
+return resultat
+
+— programme 3 :
+1 def programme_de_calcul3(nombre):
+2
+nombre = 3*nombre
+3
+nombre = nombre + 1
+4
+nombre = nombre / 2
+5
+return nombre
+
+— programme 4 :
+1 def fonction(antecedent):
+2
+antecedent = 3*antecedent
+3
+antecedent = antecedent + 1
+4
+antecedent = antecedent / 2
+5
+return antecedent
+
+FIGURE 3 – notebook
+
+

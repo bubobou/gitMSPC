@@ -1,11 +1,12 @@
 ---
 created: 2021-09-16T17:52:34.091Z
-updated: 2021-09-16T17:52:45.182Z
+updated: 2021-10-11T06:19:08.791Z
 assigned: ""
 progress: 0
 tags:
   - Thermique
 started: 2021-09-16T00:00:00.000Z
+completed: 2021-10-11T06:19:08.791Z
 ---
 
 # Mesurer une température

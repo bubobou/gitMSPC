@@ -13,7 +13,6 @@ completedColumns:
 
 ## Prévu
 
-- [caractériser-un-son](tasks/caractériser-un-son.md)
 - [caractériser-et-équilibrer-des-forces](tasks/caractériser-et-équilibrer-des-forces.md)
 - [identifier-des-espèces-chimiques](tasks/identifier-des-espèces-chimiques.md)
 - [comprendre-le-trajet-d’un-rayon-lumineux](tasks/comprendre-le-trajet-d’un-rayon-lumineux.md)
@@ -33,6 +32,8 @@ completedColumns:
 
 ## En Cours
 
-- [mesurer-une-température](tasks/mesurer-une-température.md)
+- [caractériser-un-son](tasks/caractériser-un-son.md)
 
 ## Terminé
+
+- [mesurer-une-température](tasks/mesurer-une-température.md)
