@@ -29,8 +29,8 @@ completedColumns:
 
 ## En Préparation
 
-- [caractériser-une-force](tasks/caractériser-une-force.md)
-
 ## En Cours
 
 ## Terminé
+
+- [caractériser-une-force](tasks/caractériser-une-force.md)
