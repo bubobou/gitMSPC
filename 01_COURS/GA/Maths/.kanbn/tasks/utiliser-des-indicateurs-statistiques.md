@@ -19,4 +19,4 @@ Rang: 3
 - [ ] Capacité: Construire le diagramme en boîte à moustaches associé à une série statistique avec ou sans TIC.
 - [ ] Connaissance: Diagrammes en boîte à moustaches.
 - [ ] Capacité: Comparer et interpréter des diagrammes en boîte à moustaches.
-- [ ] Algorithmique: Programmer une fonctions pour déterminer les quartiles d'une série
+- [ ] Algorithmique: Programmer une fonctions pour déterminer les quartiles d'une série.
