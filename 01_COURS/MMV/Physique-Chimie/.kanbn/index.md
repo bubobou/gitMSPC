@@ -13,7 +13,6 @@ completedColumns:
 
 ## Prévu
 
-- [comprendre-le-trajet-d’un-rayon-lumineux](tasks/comprendre-le-trajet-d’un-rayon-lumineux.md)
 - [caractériser-des-échanges-de-chaleur](tasks/caractériser-des-échanges-de-chaleur.md)
 - [décrire-un-mouvement](tasks/décrire-un-mouvement.md)
 - [transversal-sécurité-acoustique](tasks/transversal-sécurité-acoustique.md)
@@ -26,14 +25,16 @@ completedColumns:
 
 ## En Préparation
 
+- [comprendre-le-trajet-d’un-rayon-lumineux](tasks/comprendre-le-trajet-d’un-rayon-lumineux.md)
+
 ## En Cours
 
-- [identifier-des-espèces-chimiques](tasks/identifier-des-espèces-chimiques.md)
 - [transversal-sécurité-chimie](tasks/transversal-sécurité-chimie.md)
 - [transversal-électricité](tasks/transversal-électricité.md)
 
 ## Terminé
 
+- [identifier-des-espèces-chimiques](tasks/identifier-des-espèces-chimiques.md)
 - [caractériser-et-équilibrer-des-forces](tasks/caractériser-et-équilibrer-des-forces.md)
 - [caractériser-un-son](tasks/caractériser-un-son.md)
 - [mesurer-une-température](tasks/mesurer-une-température.md)

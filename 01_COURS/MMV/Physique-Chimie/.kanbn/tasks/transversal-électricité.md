@@ -1,23 +1,25 @@
 ---
+created: 2022-01-02T15:12:15.164Z
+updated: 2022-01-02T15:13:03.150Z
+assigned: ""
+progress: 0
 tags:
   - Électricité
-Rang: 0
-updated: 2021-11-30T19:26:50.417Z
-started: 2021-11-30T19:26:50.417Z
+started: 2021-11-30T00:00:00.000Z
 ---
 
 # Transversal : électricité
 
 ## Sub-tasks
 
-- [ ] Capacité: Lire et représenter un schéma électrique.
-- [ ] Capacité: Réaliser un montage à partir d’un schéma.
+- [x] Capacité: Lire et représenter un schéma électrique.
+- [x] Capacité: Réaliser un montage à partir d’un schéma.
 - [ ] Capacité: Identifier les grandeurs, avec les unités et symboles associés, indiquées sur la plaque signalétique d’un appareil.
-- [ ] Connaissance: Connaître les unités de mesure de l’intensité et de la tension.
-- [ ] Capacité: Mesurer l’intensité d’un courant électrique.
-- [ ] Connaissance: Connaître les appareils de mesure de la tension.
+- [x] Connaissance: Connaître les unités de mesure de l’intensité et de la tension.
+- [x] Capacité: Mesurer l’intensité d’un courant électrique.
+- [x] Connaissance: Connaître les appareils de mesure de la tension.
 - [ ] Capacité: Mesurer la tension aux bornes d’un dipôle.
-- [ ] Connaissance: Connaître les appareils de mesure de l’intensité.
+- [x] Connaissance: Connaître les appareils de mesure de l’intensité.
 - [ ] Capacité: Utiliser la loi des nœuds, la loi des mailles dans un circuit comportant au plus deux mailles.
 - [ ] Capacité: Identifier les grandeurs d’entrée et de sortie (avec leur unité) d’un capteur.
 - [ ] Capacité: Réaliser et exploiter la caractéristique du dipôle électrique constitué par un capteur, modélisé par la relation U = ƒ(I).
