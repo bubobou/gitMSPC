@@ -1,6 +1,6 @@
 ---
 created: 2021-08-26T11:29:10.983Z
-updated: 2021-10-14T11:25:20.081Z
+updated: 2022-01-02T10:14:48.381Z
 assigned: ""
 progress: 0
 tags:
@@ -10,6 +10,7 @@ due: 2021-10-04T00:00:00.000Z
 started: 2021-09-20T00:00:00.000Z
 Module: Fonctions
 Rang: 2
+completed: 2022-01-02T10:14:48.381Z
 ---
 
 # Découvrir les fonctions
