@@ -18,8 +18,6 @@ completedColumns:
 
 ## Prévu An1
 
-- [réaliser-des-montages-électriques](tasks/réaliser-des-montages-électriques.md)
-- [caractériser-un-signal-sonore](tasks/caractériser-un-signal-sonore.md)
 - [identifier-des-espèces-chimiques](tasks/identifier-des-espèces-chimiques.md)
 - [mesurer-des-températures](tasks/mesurer-des-températures.md)
 - [comprendre-le-trajet-d’un-rayon-lumineux](tasks/comprendre-le-trajet-d’un-rayon-lumineux.md)
@@ -29,8 +27,11 @@ completedColumns:
 
 ## En Préparation
 
+- [réaliser-des-montages-électriques](tasks/réaliser-des-montages-électriques.md)
+
 ## En Cours
 
 ## Terminé
 
+- [caractériser-un-signal-sonore](tasks/caractériser-un-signal-sonore.md)
 - [caractériser-une-force](tasks/caractériser-une-force.md)

@@ -1,11 +1,12 @@
 ---
 created: 2021-09-07T16:20:13.463Z
-updated: 2021-09-19T18:22:33.023Z
+updated: 2022-01-02T15:46:58.103Z
 assigned: ""
-progress: 0
+progress: 1
 tags:
   - Géométrie
   - Co-intervention
+completed: 2022-01-02T00:00:00.000Z
 Rang: 0
 ---
 
@@ -19,5 +20,5 @@ Rang: 0
 
 ## Sub-tasks
 
-- [ ] Capacité: Reconnaître, nommer une figure plane usuelle*. Identifier les figures usuelles constituant une figure donnée.
-- [ ] Connaissance: Propriétés caractéristiques des quadrilatères portant sur les diagonales ou sur les côtés.
+- [x] Capacité: Reconnaître, nommer une figure plane usuelle*. Identifier les figures usuelles constituant une figure donnée.
+- [x] Connaissance: Propriétés caractéristiques des quadrilatères portant sur les diagonales ou sur les côtés.

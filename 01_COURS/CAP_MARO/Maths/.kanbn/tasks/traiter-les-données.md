@@ -1,12 +1,13 @@
 ---
 created: 2021-08-31T08:27:24.387Z
-updated: 2021-09-24T08:56:14.977Z
+updated: 2022-01-02T15:46:46.928Z
 assigned: ""
 progress: 0
 tags:
   - 'Statistique - Probabilités'
 started: 2021-09-07T00:00:00.000Z
 Rang: 0
+completed: 2022-01-02T15:46:46.929Z
 ---
 
 # Traiter les données
