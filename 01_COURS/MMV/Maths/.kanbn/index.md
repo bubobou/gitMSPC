@@ -30,8 +30,8 @@ completedColumns:
 
 ## En Cours
 
-- [utiliser-des-indicateurs-statistiques](tasks/utiliser-des-indicateurs-statistiques.md)
 - [créer-et-programmer-des-algorithmes](tasks/créer-et-programmer-des-algorithmes.md)
+- [utiliser-des-indicateurs-statistiques](tasks/utiliser-des-indicateurs-statistiques.md)
 
 ## Terminé
 
