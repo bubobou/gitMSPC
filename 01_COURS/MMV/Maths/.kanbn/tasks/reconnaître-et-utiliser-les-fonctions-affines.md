@@ -1,6 +1,6 @@
 ---
 created: 2021-08-26T10:38:34.011Z
-updated: 2022-01-02T10:15:43.606Z
+updated: 2022-02-02T19:16:27.189Z
 assigned: ""
 progress: 0
 tags:
@@ -17,13 +17,13 @@ Rang: 0
 ## Sub-tasks
 
 - [ ] Capacité:Représenter graphiquement une fonction affine.
-- [ ] Connaissance: Courbe représentative d’une fonction affine.
-- [ ] Connaissance: Coefficient directeur et ordonnée à l’origine d’une droite représentant une fonction affine.
+- [x] Connaissance: Courbe représentative d’une fonction affine.
+- [x] Connaissance: Coefficient directeur et ordonnée à l’origine d’une droite représentant une fonction affine.
 - [ ] Capacité: Déterminer l’expression d’une fonction affine à partir de la donnée de deux nombres et de leurs images.
-- [ ] Connaissance: Coefficient directeur et ordonnée à l’origine d’une droite représentant une fonction affine.
-- [ ] Connaissance: Équation réduite d’une droite.
-- [ ] Capacité: Déterminer graphiquement le coefficient directeur d’une droite non verticale.
-- [ ] Capacité: Faire le lien entre coefficient directeur et pente dans un repère orthonormé.
+- [x] Connaissance: Coefficient directeur et ordonnée à l’origine d’une droite représentant une fonction affine.
+- [x] Connaissance: Équation réduite d’une droite.
+- [x] Capacité: Déterminer graphiquement le coefficient directeur d’une droite non verticale.
+- [x] Capacité: Faire le lien entre coefficient directeur et pente dans un repère orthonormé.
 - [ ] Connaissance: Sens de variation en fonction du coefficient directeur de la droite qui la représente.
 - [ ] Connaissance: Interprétation du coefficient directeur de la droite représentative d’une fonction affine comme taux d’accroissement.
 - [ ] Capacité: Reconnaître que deux droites d’équations données sont parallèles.

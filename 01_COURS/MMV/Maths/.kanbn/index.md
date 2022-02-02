@@ -26,15 +26,14 @@ completedColumns:
 
 ## En Préparation
 
-- [reconnaître-et-utiliser-les-fonctions-affines](tasks/reconnaître-et-utiliser-les-fonctions-affines.md)
-
 ## En Cours
 
 - [créer-et-programmer-des-algorithmes](tasks/créer-et-programmer-des-algorithmes.md)
-- [utiliser-des-indicateurs-statistiques](tasks/utiliser-des-indicateurs-statistiques.md)
+- [reconnaître-et-utiliser-les-fonctions-affines](tasks/reconnaître-et-utiliser-les-fonctions-affines.md)
 
 ## Terminé
 
+- [utiliser-des-indicateurs-statistiques](tasks/utiliser-des-indicateurs-statistiques.md)
+- [utiliser-des-propriétés-géométriques](tasks/utiliser-des-propriétés-géométriques.md)
 - [découvrir-les-fonctions](tasks/découvrir-les-fonctions.md)
 - [traiter-des-données-statistiques](tasks/traiter-des-données-statistiques.md)
-- [utiliser-des-propriétés-géométriques](tasks/utiliser-des-propriétés-géométriques.md)
