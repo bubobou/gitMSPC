@@ -22,14 +22,13 @@ completedColumns:
 
 ## En Préparation
 
-- [caractériser-des-échanges-de-chaleur](tasks/caractériser-des-échanges-de-chaleur.md)
-
 ## En Cours
 
 - [transversal-sécurité-chimie](tasks/transversal-sécurité-chimie.md)
 - [transversal-électricité](tasks/transversal-électricité.md)
 - [transversal-sécurité-optique](tasks/transversal-sécurité-optique.md)
 - [transversal-sécurité-acoustique](tasks/transversal-sécurité-acoustique.md)
+- [caractériser-des-échanges-de-chaleur](tasks/caractériser-des-échanges-de-chaleur.md)
 
 ## Terminé
 
