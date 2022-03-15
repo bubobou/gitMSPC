@@ -6,7 +6,7 @@ tags:
   - 'Algorithmique et programmation'
 Module: 'Fluctuations d’une fréquence selon les échantillons, probabilités'
 Rang: 0
-updated: 2021-08-29T21:17:52.607Z
+updated: 2022-03-15T12:08:29.579Z
 ---
 
 # Expérimenter les probabilités
