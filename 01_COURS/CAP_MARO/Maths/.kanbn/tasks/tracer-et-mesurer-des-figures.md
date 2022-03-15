@@ -2,7 +2,8 @@
 tags:
   - Géométrie
 Rang: 0
-updated: 2021-08-31T08:34:20.186Z
+updated: 2022-02-25T10:31:45.831Z
+completed: 2022-02-25T10:31:45.831Z
 ---
 
 # Tracer et mesurer des figures

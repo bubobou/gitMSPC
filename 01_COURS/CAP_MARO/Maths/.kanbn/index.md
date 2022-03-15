@@ -24,10 +24,8 @@ completedColumns:
 
 ## Prévu An1
 
-- [convertir-des-unités](tasks/convertir-des-unités.md)
-- [résoudre-des-problèmes-de-proportionnalité](tasks/résoudre-des-problèmes-de-proportionnalité.md)
-- [tracer-et-mesurer-des-figures](tasks/tracer-et-mesurer-des-figures.md)
 - [expérimenter-les-probabilités](tasks/expérimenter-les-probabilités.md)
+- [résoudre-des-problèmes-de-proportionnalité](tasks/résoudre-des-problèmes-de-proportionnalité.md)
 - [identifier-des-solides](tasks/identifier-des-solides.md)
 - [découvrir-les-fonctions](tasks/découvrir-les-fonctions.md)
 - [utiliser-un-indicateur-statistique](tasks/utiliser-un-indicateur-statistique.md)
@@ -36,11 +34,12 @@ completedColumns:
 
 ## En Préparation
 
-- [utiliser-la-proportionnalité](tasks/utiliser-la-proportionnalité.md)
-
 ## En Cours
 
 ## Terminé
 
-- [traiter-les-données](tasks/traiter-les-données.md)
+- [tracer-et-mesurer-des-figures](tasks/tracer-et-mesurer-des-figures.md)
+- [utiliser-la-proportionnalité](tasks/utiliser-la-proportionnalité.md)
 - [identifier-des-figures](tasks/identifier-des-figures.md)
+- [traiter-les-données](tasks/traiter-les-données.md)
+- [convertir-des-unités](tasks/convertir-des-unités.md)

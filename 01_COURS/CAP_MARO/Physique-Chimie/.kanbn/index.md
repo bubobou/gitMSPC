@@ -18,8 +18,6 @@ completedColumns:
 
 ## Prévu An1
 
-- [identifier-des-espèces-chimiques](tasks/identifier-des-espèces-chimiques.md)
-- [mesurer-des-températures](tasks/mesurer-des-températures.md)
 - [comprendre-le-trajet-d’un-rayon-lumineux](tasks/comprendre-le-trajet-d’un-rayon-lumineux.md)
 - [décrire-un-mouvement](tasks/décrire-un-mouvement.md)
 - [transmettre-et-atténuer-des-sons](tasks/transmettre-et-atténuer-des-sons.md)
@@ -27,9 +25,12 @@ completedColumns:
 
 ## En Préparation
 
+- [mesurer-des-températures](tasks/mesurer-des-températures.md)
 - [réaliser-des-montages-électriques](tasks/réaliser-des-montages-électriques.md)
 
 ## En Cours
+
+- [identifier-des-espèces-chimiques](tasks/identifier-des-espèces-chimiques.md)
 
 ## Terminé
 

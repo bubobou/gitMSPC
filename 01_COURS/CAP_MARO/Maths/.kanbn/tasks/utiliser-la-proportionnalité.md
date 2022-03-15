@@ -2,7 +2,8 @@
 tags:
   - 'Algèbre - Analyse'
 Rang: 0
-updated: 2022-01-02T15:47:40.601Z
+updated: 2022-02-25T10:31:32.056Z
+completed: 2022-02-25T10:31:32.056Z
 ---
 
 # Utiliser la proportionnalité
