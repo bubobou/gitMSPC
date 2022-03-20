@@ -1,7 +1,11 @@
 ---
+created: 2022-03-15T20:16:46.747Z
+updated: 2022-03-15T20:17:23.678Z
+assigned: ""
+progress: 0
 tags:
-  - 'Électricité'
-Rang: 0
+  - Électricité
+started: 2022-03-15T00:00:00.000Z
 ---
 
 # Transversal : électricité
@@ -12,10 +16,10 @@ Rang: 0
 - [ ] Capacité: Réaliser un montage à partir d’un schéma.
 - [ ] Capacité: Identifier les grandeurs, avec les unités et symboles associés, indiquées sur la plaque signalétique d’un appareil.
 - [ ] Connaissance: Connaître les unités de mesure de l’intensité et de la tension.
-- [ ] Capacité: Mesurer l’intensité d’un courant électrique.
-- [ ] Connaissance: Connaître les appareils de mesure de la tension.
-- [ ] Capacité: Mesurer la tension aux bornes d’un dipôle.
-- [ ] Connaissance: Connaître les appareils de mesure de l’intensité.
+- [x] Capacité: Mesurer l’intensité d’un courant électrique.
+- [x] Connaissance: Connaître les appareils de mesure de la tension.
+- [x] Capacité: Mesurer la tension aux bornes d’un dipôle.
+- [x] Connaissance: Connaître les appareils de mesure de l’intensité.
 - [ ] Capacité: Utiliser la loi des nœuds, la loi des mailles dans un circuit comportant au plus deux mailles.
 - [ ] Capacité: Identifier les grandeurs d’entrée et de sortie (avec leur unité) d’un capteur.
 - [ ] Capacité: Réaliser et exploiter la caractéristique du dipôle électrique constitué par un capteur, modélisé par la relation U = ƒ(I).

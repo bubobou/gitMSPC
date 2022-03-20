@@ -28,8 +28,8 @@ completedColumns:
 
 ## En Cours
 
-- [reconnaître-les-solides-usuels](tasks/reconnaître-les-solides-usuels.md)
 - [créer-et-programmer-des-algorithmes](tasks/créer-et-programmer-des-algorithmes.md)
+- [reconnaître-les-solides-usuels](tasks/reconnaître-les-solides-usuels.md)
 
 ## Terminé
 

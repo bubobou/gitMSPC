@@ -1,10 +1,11 @@
 ---
 created: 2021-08-31T11:38:46.439Z
-updated: 2021-08-31T11:42:39.508Z
+updated: 2022-03-15T20:16:13.208Z
 assigned: ""
 progress: 0
 tags:
   - Sécurité
+started: 2022-03-15T20:16:13.208Z
 ---
 
 # Transversal : sécurité chimie

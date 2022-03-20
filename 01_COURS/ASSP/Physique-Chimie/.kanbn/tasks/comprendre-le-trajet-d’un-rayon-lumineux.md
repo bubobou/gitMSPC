@@ -1,7 +1,9 @@
 ---
 tags:
-  - 'Optique'
+  - Optique
 Rang: 0
+updated: 2022-03-15T20:15:31.736Z
+completed: 2022-03-15T20:15:31.736Z
 ---
 
 # Comprendre le trajet d’un rayon lumineux

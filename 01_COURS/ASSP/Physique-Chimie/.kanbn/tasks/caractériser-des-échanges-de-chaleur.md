@@ -2,7 +2,8 @@
 tags:
   - Thermique
 Rang: 0
-updated: 2021-08-31T11:54:15.083Z
+updated: 2022-03-15T20:15:34.116Z
+completed: 2022-03-15T20:15:34.116Z
 ---
 
 # Caractériser des échanges de chaleur
