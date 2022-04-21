@@ -2,7 +2,8 @@
 tags:
   - 'Statistique - Probabilités'
 Rang: 0
-updated: 2021-08-31T08:34:28.997Z
+updated: 2022-03-25T10:34:10.732Z
+completed: 2022-03-25T10:34:10.734Z
 ---
 
 # Expérimenter les probabilités

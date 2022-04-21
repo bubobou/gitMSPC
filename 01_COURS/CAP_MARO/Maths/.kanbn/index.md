@@ -24,9 +24,7 @@ completedColumns:
 
 ## Prévu An1
 
-- [expérimenter-les-probabilités](tasks/expérimenter-les-probabilités.md)
 - [résoudre-des-problèmes-de-proportionnalité](tasks/résoudre-des-problèmes-de-proportionnalité.md)
-- [identifier-des-solides](tasks/identifier-des-solides.md)
 - [découvrir-les-fonctions](tasks/découvrir-les-fonctions.md)
 - [utiliser-un-indicateur-statistique](tasks/utiliser-un-indicateur-statistique.md)
 - [représenter-les-fonctions](tasks/représenter-les-fonctions.md)
@@ -38,6 +36,8 @@ completedColumns:
 
 ## Terminé
 
+- [identifier-des-solides](tasks/identifier-des-solides.md)
+- [expérimenter-les-probabilités](tasks/expérimenter-les-probabilités.md)
 - [tracer-et-mesurer-des-figures](tasks/tracer-et-mesurer-des-figures.md)
 - [utiliser-la-proportionnalité](tasks/utiliser-la-proportionnalité.md)
 - [identifier-des-figures](tasks/identifier-des-figures.md)

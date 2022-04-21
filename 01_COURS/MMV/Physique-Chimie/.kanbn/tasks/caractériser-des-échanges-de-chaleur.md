@@ -1,11 +1,12 @@
 ---
 created: 2022-02-06T20:19:03.718Z
-updated: 2022-02-06T20:19:22.513Z
+updated: 2022-04-21T12:13:50.611Z
 assigned: ""
 progress: 0
 tags:
   - Thermique
 started: 2022-02-06T00:00:00.000Z
+completed: 2022-04-21T12:13:50.611Z
 ---
 
 # Caractériser des échanges de chaleur
