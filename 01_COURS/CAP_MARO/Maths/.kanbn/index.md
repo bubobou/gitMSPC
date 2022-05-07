@@ -13,7 +13,6 @@ completedColumns:
 
 ## Prévu An2
 
-- [utiliser-la-symétrie](tasks/utiliser-la-symétrie.md)
 - [résoudre-des-problèmes](tasks/résoudre-des-problèmes.md)
 - [calculer-des-probabilités](tasks/calculer-des-probabilités.md)
 - [calculer-des-dimensions-dans-des-solides](tasks/calculer-des-dimensions-dans-des-solides.md)
@@ -24,22 +23,25 @@ completedColumns:
 
 ## Prévu An1
 
-- [résoudre-des-problèmes-de-proportionnalité](tasks/résoudre-des-problèmes-de-proportionnalité.md)
-- [découvrir-les-fonctions](tasks/découvrir-les-fonctions.md)
 - [utiliser-un-indicateur-statistique](tasks/utiliser-un-indicateur-statistique.md)
 - [représenter-les-fonctions](tasks/représenter-les-fonctions.md)
 - [exploiter-les-fonctions](tasks/exploiter-les-fonctions.md)
 
 ## En Préparation
 
+- [découvrir-les-fonctions](tasks/découvrir-les-fonctions.md)
+
 ## En Cours
+
+- [utiliser-la-symétrie](tasks/utiliser-la-symétrie.md)
 
 ## Terminé
 
 - [identifier-des-solides](tasks/identifier-des-solides.md)
-- [expérimenter-les-probabilités](tasks/expérimenter-les-probabilités.md)
-- [tracer-et-mesurer-des-figures](tasks/tracer-et-mesurer-des-figures.md)
-- [utiliser-la-proportionnalité](tasks/utiliser-la-proportionnalité.md)
 - [identifier-des-figures](tasks/identifier-des-figures.md)
 - [traiter-les-données](tasks/traiter-les-données.md)
 - [convertir-des-unités](tasks/convertir-des-unités.md)
+- [résoudre-des-problèmes-de-proportionnalité](tasks/résoudre-des-problèmes-de-proportionnalité.md)
+- [expérimenter-les-probabilités](tasks/expérimenter-les-probabilités.md)
+- [tracer-et-mesurer-des-figures](tasks/tracer-et-mesurer-des-figures.md)
+- [utiliser-la-proportionnalité](tasks/utiliser-la-proportionnalité.md)

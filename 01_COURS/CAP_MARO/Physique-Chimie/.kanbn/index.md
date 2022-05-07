@@ -18,14 +18,12 @@ completedColumns:
 
 ## Prévu An1
 
-- [comprendre-le-trajet-d’un-rayon-lumineux](tasks/comprendre-le-trajet-d’un-rayon-lumineux.md)
-- [décrire-un-mouvement](tasks/décrire-un-mouvement.md)
+- [mesurer-des-températures](tasks/mesurer-des-températures.md)
 - [transmettre-et-atténuer-des-sons](tasks/transmettre-et-atténuer-des-sons.md)
 - [réaliser-une-dilution](tasks/réaliser-une-dilution.md)
 
 ## En Préparation
 
-- [mesurer-des-températures](tasks/mesurer-des-températures.md)
 - [réaliser-des-montages-électriques](tasks/réaliser-des-montages-électriques.md)
 
 ## En Cours
@@ -34,5 +32,7 @@ completedColumns:
 
 ## Terminé
 
+- [comprendre-le-trajet-d’un-rayon-lumineux](tasks/comprendre-le-trajet-d’un-rayon-lumineux.md)
+- [décrire-un-mouvement](tasks/décrire-un-mouvement.md)
 - [caractériser-un-signal-sonore](tasks/caractériser-un-signal-sonore.md)
 - [caractériser-une-force](tasks/caractériser-une-force.md)

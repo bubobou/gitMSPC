@@ -1,7 +1,9 @@
 ---
 tags:
-  - 'Mécanique'
+  - Mécanique
 Rang: 0
+updated: 2022-05-07T07:09:38.333Z
+completed: 2022-05-07T07:09:38.333Z
 ---
 
 # Décrire un mouvement

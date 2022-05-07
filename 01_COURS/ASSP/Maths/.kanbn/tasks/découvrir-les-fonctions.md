@@ -1,15 +1,16 @@
 ---
 created: 2021-08-26T11:29:10.983Z
-updated: 2021-08-26T11:52:33.309Z
+updated: 2022-05-07T07:15:55.687Z
 assigned: ""
 progress: 0
 tags:
-  - 'Analyse-Algèbre'
+  - Analyse-Algèbre
   - 'Algorithmique et programmation'
 due: 2021-10-04T00:00:00.000Z
 started: 2021-09-20T00:00:00.000Z
 Module: Fonctions
 Rang: 2
+completed: 2022-05-07T07:15:55.687Z
 ---
 
 # Découvrir les fonctions

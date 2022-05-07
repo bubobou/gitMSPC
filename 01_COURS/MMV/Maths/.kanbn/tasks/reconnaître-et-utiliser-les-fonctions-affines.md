@@ -1,6 +1,6 @@
 ---
 created: 2021-08-26T10:38:34.011Z
-updated: 2022-02-02T19:16:27.189Z
+updated: 2022-05-07T07:14:26.111Z
 assigned: ""
 progress: 0
 tags:
@@ -10,6 +10,7 @@ due: 2021-11-22T00:00:00.000Z
 started: 2021-11-08T00:00:00.000Z
 Module: Fonctions
 Rang: 0
+completed: 2022-05-07T07:14:26.111Z
 ---
 
 # Reconnaître et utiliser les fonctions affines

@@ -1,12 +1,13 @@
 ---
 created: 2021-08-31T08:21:41.933Z
-updated: 2022-03-13T21:51:07.251Z
+updated: 2022-05-07T07:10:49.295Z
 assigned: ""
 progress: 0
 tags:
   - Thermique
 Année: 1
 Rang: 0
+completed: 2022-05-07T07:09:47.675Z
 ---
 
 # Mesurer des températures

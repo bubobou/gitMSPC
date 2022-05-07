@@ -1,7 +1,8 @@
 ---
 tags:
-  - 'Optique'
+  - Optique
 Rang: 0
+updated: 2022-05-07T07:12:24.995Z
 ---
 
 # Décomposer la lumière

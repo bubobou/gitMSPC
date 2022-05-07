@@ -1,6 +1,6 @@
 ---
 created: 2021-08-26T12:16:18.309Z
-updated: 2021-08-29T21:17:35.359Z
+updated: 2022-05-07T07:15:59.414Z
 assigned: ""
 progress: 0
 tags:
@@ -8,6 +8,7 @@ tags:
   - 'Algorithmique et programmation'
 Module: 'Statistique à une variable'
 Rang: 3
+completed: 2022-05-07T07:15:59.414Z
 ---
 
 # Utiliser des indicateurs statistiques

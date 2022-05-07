@@ -2,12 +2,11 @@
 assigned: ""
 progress: 0
 tags:
-  #- 'Statistique et probabilités'
-  #- 'Analyse-Algèbre'
-  #- 'Géométrie'
   - 'Algorithmique et programmation'
 Module: 'Algorithmique et programmation'
 Rang: 0
+updated: 2022-05-07T07:16:15.104Z
+started: 2022-05-07T07:16:15.104Z
 ---
 
 # Créer et programmer des algorithmes
@@ -29,4 +28,3 @@ Rang: 0
 - [ ] Connaissance: Valeur(s) renvoyée(s) par une fonction.
 - [ ] Capacité: Compléter la définition d’une fonction.
 - [ ] Capacité: Structurer un programme en ayant recours à des fonctions pour résoudre un problème donné.
-

@@ -6,7 +6,8 @@ tags:
   - 'Algorithmique et programmation'
 Module: Géométrie
 Rang: 0
-updated: 2021-08-29T21:17:46.681Z
+updated: 2022-05-07T07:16:04.907Z
+completed: 2022-05-07T07:16:04.907Z
 ---
 
 # Utiliser des propriétés géométriques

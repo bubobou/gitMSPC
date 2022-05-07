@@ -14,13 +14,12 @@ completedColumns:
 ## Prévu
 
 - [transmettre-et-atténuer-un-son](tasks/transmettre-et-atténuer-un-son.md)
-- [décomposer-la-lumière](tasks/décomposer-la-lumière.md)
 - [calculer-une-vitesse](tasks/calculer-une-vitesse.md)
 - [mesurer-un-rayonnement-lumineux](tasks/mesurer-un-rayonnement-lumineux.md)
 
 ## En Préparation
 
-- [mesurer-un-ph](tasks/mesurer-un-ph.md)
+- [décomposer-la-lumière](tasks/décomposer-la-lumière.md)
 
 ## En Cours
 
@@ -38,3 +37,4 @@ completedColumns:
 - [caractériser-et-équilibrer-des-forces](tasks/caractériser-et-équilibrer-des-forces.md)
 - [caractériser-un-son](tasks/caractériser-un-son.md)
 - [mesurer-une-température](tasks/mesurer-une-température.md)
+- [mesurer-un-ph](tasks/mesurer-un-ph.md)

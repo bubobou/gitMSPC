@@ -2,7 +2,8 @@
 tags:
   - Géométrie
 Rang: 0
-updated: 2021-08-31T08:54:38.469Z
+updated: 2022-05-07T07:06:24.013Z
+started: 2022-05-07T07:06:24.013Z
 ---
 
 # Utiliser la symétrie
