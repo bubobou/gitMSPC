@@ -14,7 +14,6 @@ completedColumns:
 ## Prévu
 
 - [transmettre-et-atténuer-un-son](tasks/transmettre-et-atténuer-un-son.md)
-- [calculer-une-vitesse](tasks/calculer-une-vitesse.md)
 - [mesurer-un-rayonnement-lumineux](tasks/mesurer-un-rayonnement-lumineux.md)
 
 ## En Préparation
@@ -30,6 +29,7 @@ completedColumns:
 
 ## Terminé
 
+- [calculer-une-vitesse](tasks/calculer-une-vitesse.md)
 - [décrire-un-mouvement](tasks/décrire-un-mouvement.md)
 - [caractériser-des-échanges-de-chaleur](tasks/caractériser-des-échanges-de-chaleur.md)
 - [comprendre-le-trajet-d’un-rayon-lumineux](tasks/comprendre-le-trajet-d’un-rayon-lumineux.md)

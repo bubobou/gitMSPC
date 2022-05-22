@@ -1,15 +1,15 @@
 ---
 created: 2022-05-07T07:13:41.585Z
-updated: 2022-05-07T07:14:23.150Z
+updated: 2022-05-10T20:37:08.569Z
 assigned: ""
 progress: 1
 tags:
   - 'Statistique et probabilités'
   - 'Algorithmique et programmation'
+started: 2022-05-07T00:00:00.000Z
 completed: 2022-05-07T00:00:00.000Z
 Module: 'Fluctuations d’une fréquence selon les échantillons, probabilités'
 Rang: 0
-started: 2022-05-07T07:14:20.336Z
 ---
 
 # Expérimenter les probabilités
@@ -23,7 +23,7 @@ started: 2022-05-07T07:14:20.336Z
 - [x] Connaissance: Notion de tirage au hasard et avec remise de $n$ éléments dans une population où la fréquence *p* relative à un caractère est connue.
 - [x] Capacité: Déterminer l’étendue des fréquences, relatives à un caractère, de la série d’échantillons de taille n obtenus par expérience concrète ou simulation.
 - [x] Connaissance: Fluctuation d’une fréquence relative à un caractère, sur des échantillons de taille n fixée.
-- [ ] Capacité: Calculer la probabilité d'un événement dans le cas d'une situation aléatoire simple.
-- [ ] Connaissance: Dénombrements à l’aide de tableaux à double entrée ou d’arbres.
-- [ ] Capacité: Faire preuve d'esprit critique face à une situation aléatoire simple.
+- [x] Capacité: Calculer la probabilité d'un événement dans le cas d'une situation aléatoire simple.
+- [x] Connaissance: Dénombrements à l’aide de tableaux à double entrée ou d’arbres.
+- [x] Capacité: Faire preuve d'esprit critique face à une situation aléatoire simple.
 - [x] Algorithmique: simuler des expériences aléatoires

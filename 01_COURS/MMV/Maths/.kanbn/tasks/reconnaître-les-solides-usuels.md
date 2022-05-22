@@ -1,6 +1,6 @@
 ---
 created: 2021-08-26T11:37:32.076Z
-updated: 2021-10-14T11:26:20.887Z
+updated: 2022-05-10T20:37:35.843Z
 assigned: ""
 progress: 0
 tags:
@@ -8,6 +8,7 @@ tags:
   - 'Algorithmique et programmation'
 Module: Géométrie
 Rang: 3
+completed: 2022-05-10T20:37:35.843Z
 ---
 
 # Reconnaître les solides usuels

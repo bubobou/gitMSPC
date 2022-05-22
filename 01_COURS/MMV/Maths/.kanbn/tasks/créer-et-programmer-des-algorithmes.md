@@ -1,6 +1,6 @@
 ---
 created: 2022-01-02T10:16:12.345Z
-updated: 2022-01-02T10:16:34.380Z
+updated: 2022-05-10T20:37:27.183Z
 assigned: ""
 progress: 0
 tags:
@@ -16,7 +16,7 @@ Rang: 0
 
 - [ ] Capacité: Analyser un problème.
 - [ ] Capacité: Décomposer un problème en sous- problèmes.
-- [ ] Capacité: Repérer les enchaînements logiques et les traduire en instructions conditionnelles et en boucles.
+- [x] Capacité: Repérer les enchaînements logiques et les traduire en instructions conditionnelles et en boucles.
 - [x] Connaissance: Séquences d’instructions, instructions conditionnelles, boucles bornées (for) et non bornées (while).
 - [ ] Capacité: Choisir ou reconnaître le type d’une variable.
 - [ ] Connaissance: Types de variables : entiers, flottants, chaînes de caractères, booléens.
